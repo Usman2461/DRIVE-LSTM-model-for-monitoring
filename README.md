@@ -8,7 +8,8 @@ Simulink,
 Deep Learning Toolbox (MATLAB).
 
 
-
+Instructions: Partial data is provided herewith for inital setup and replication of the system. For advanced user, can contact author by email usman@mail.dlut.edu.cn, the further data can be provided on reasonable request. 
+For collaborative work in the similar domain, you are welcome to email at usman@mail.dlut.edu.cn 
 
 Operating System Requirements:
 
