@@ -26,6 +26,13 @@ macOS:
 macOS Mojave (10.14) or later.
 
 
+INSTRUCTIONS TO RUN:
+1- Download provided Datasets.
+2- Download Matlab, simulink 2025B or 2024B or Latest version is recommended.
+3- Save code files to same directory.
+4- Change the data directory path as per your system.
+5- download all the libraries required.
+6- Run.
 
 FOR ANY FURTHER DISCUSSION OR INFORMATION FEEL FREE TO CONTACT ME ON EMAIL OR VIA GITHUB.
 Note: Some data are partial data will be fully updated after successfull publication of the work.
