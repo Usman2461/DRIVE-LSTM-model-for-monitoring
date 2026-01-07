@@ -28,3 +28,4 @@ macOS Mojave (10.14) or later.
 
 
 FOR ANY FURTHER DISCUSSION OR INFORMATION FEEL FREE TO CONTACT ME ON EMAIL OR VIA GITHUB.
+Note: Some data are partial data will be fully updated after successfull publication of the work.
